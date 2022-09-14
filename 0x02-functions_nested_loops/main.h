@@ -18,6 +18,3 @@ void num(int r, int n);
 
 #endif
 ^c
-c
-cat > main.h
-chmod u+x main.h
