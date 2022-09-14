@@ -18,4 +18,3 @@ void num(int r, int n);
 
 #endif
 ^C
-^
